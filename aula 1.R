@@ -1,5 +1,6 @@
 2+2
 install.packages("dplyr")
 library("dplyr")
-
-detac
+ 5+5 
+ 33+2
+ 
